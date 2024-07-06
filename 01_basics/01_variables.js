@@ -1,4 +1,4 @@
-const accountId = 144553
+const accountId = 144553  //fixed value (can not change value)
 let accountEmail = "sakshi@gmail.com"
 var accountPassword = "12345"
 accountCity = "Gwalior"
