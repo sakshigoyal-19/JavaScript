@@ -7,7 +7,7 @@ let accountState;
 
 /*
 Prefer not to use var
-because of issue in block scope and functional scope
+because of issue in block scope and functional scope 
 */
 
 accountEmail = "as@kh.com" 
